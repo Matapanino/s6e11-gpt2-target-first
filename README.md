@@ -125,7 +125,7 @@ The post reports these results on S6E10 only. A cheap pilot reads well below the
 | 4 | 0.945853958754 |
 | Pooled OOF | 0.950027203793 |
 
-[Member notebook](https://www.kaggle.com/code/masayakawamata/s6e11-gpt2-target-first-classifier-cv-0-9500) · [OOF and test dataset](https://www.kaggle.com/datasets/masayakawamata/s6e11-gpt2-target-first-oof)
+[Member notebook](https://www.kaggle.com/code/masayakawamata/s6e11-gpt-2-target-first-classifier-cv-0-9500) · [OOF and test dataset](https://www.kaggle.com/datasets/masayakawamata/s6e11-gpt2-target-first-oof)
 
 Recorded training job time: 60.29 GPU hours (5.07 replica + 55.22 fold classifiers). Recorded scoring chunk time: 61.62 GPU hours. These are summed job times, not elapsed time with jobs running concurrently. Scoring includes all saved orders in the run, including extra OOF orders for the first two folds; it is not an estimate for an all-ten-order rerun. Interrupted work and setup are not necessarily included.
 
